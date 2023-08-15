@@ -24,7 +24,7 @@ html {
 
 .cover {
   background-image: url(https://www.taleek.com/img/bg-layer.svg);
-  height: 920px;
+  height: 950px;
   background-position: center;
   background-color: rgb(50, 72, 168);
   background-repeat: no-repeat;
@@ -167,7 +167,7 @@ button:hover {
   width: 100%;
   position: absolute;
   bottom: 0;
-  background-image: url(/image/wave.png);
+  background-image: url(../image/wave.png);
   background-size: 988px;
   animation: waves 100s infinite;
 }
